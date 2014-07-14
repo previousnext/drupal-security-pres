@@ -1,4 +1,6 @@
-drupal-security-pres
-====================
+#Hacked in 60 Seconds
 
-A Drupal security overview presentation.
+Writing Secure Drupal Code
+
+A presentation using reveal.js.
+
